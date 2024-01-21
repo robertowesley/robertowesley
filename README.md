@@ -2,12 +2,6 @@
 
 ## Eu sou o Wesley e esse é o meu perfil no Github
 
-Sou Analista de dados a **1.5 ano** e tive, até o momento, experiência com:
-
-<img src="https://icons8.com/icons/set/excel" width="50px">
-<img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="50px" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="50px" style="border">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px" style="border">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50px" style="border">
+Sou Analista de dados tenho 2 anos de experiência profissional em Analise de dados. Trabalho com o Power BI desde 2020 e sou apaixonado pelo universo de Dados. É sempre desafiadora a tarefa de extrair dados e torná-los inteligíveis de maneira simples e organizada, porém é que me motiva diariamente. Tenho aptidão para lidar com grandes massas de dados, analisando e modelando a fim de propor tomadas de decisões, por meio da apresentação de relatórios gerenciais , KPI’S, criação de dashboards no excel e power BI.
 </div>
 <br>
