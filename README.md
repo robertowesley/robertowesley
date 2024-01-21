@@ -1,4 +1,4 @@
-![image](https://github.com/robertowesley/robertowesley/assets/143567498/9575cf34-3e6b-4a7d-84f5-39a2f4de9ab9)# Fala galera!!
+# Fala galera!!
 
 ## Eu sou o Wesley e esse é o meu perfil no Github
 
