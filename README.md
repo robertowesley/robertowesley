@@ -4,9 +4,10 @@
 
 Sou Analista de dados a **1.5 ano** e tive, até o momento, experiência com:
 
-<div style='background-color: #949292; display: flex; gap: 16px; width: fit-content; border-radius: 16px; padding: 8px'>
-<img src="[https://cdn-icons-png.flaticon.com/512/154/154878.png](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.bosontreinamentos.com.br%2Fmicrosoft-excel-2010%2F15-atalhos-de-teclado-para-o-excel-selecionados%2F&psig=AOvVaw3arrEszP5btanvyvPdsLE7&ust=1705956792871000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICg7Leu74MDFQAAAAAdAAAAABAI)" width="50px" >
-<img src="![image](https://github.com/robertowesley/robertowesley/assets/143567498/373aad22-d736-471f-9337-9e9decba473d)
-" width="50px" style="border">
+<img src="https://www.flaticon.com/free-icon/excel_732220?term=excel&page=1&position=1&origin=search&related_id=732220" width="50px">
+<img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="50px" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="50px" style="border">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px" style="border">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50px" style="border">
 </div>
 <br>
